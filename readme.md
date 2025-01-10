@@ -201,4 +201,4 @@ Proper error handling and validation are implemented for all API endpoints to en
 
 ## Documentation URL
 
-[POSTMAN API Documentation URL: ]()
+[POSTMAN API Documentation URL: ](https://documenter.getpostman.com/view/40014100/2sAYQUraCW)
