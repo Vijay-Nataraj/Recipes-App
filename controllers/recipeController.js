@@ -1,4 +1,3 @@
-const { param } = require("../app");
 const Recipe = require("../models/Recipe");
 
 const recipeController = {
